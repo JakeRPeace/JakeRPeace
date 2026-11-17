@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Jake, a software engineer working across Android, full-stack development, and AI-assisted engineering.
+
+[Explore Fragments, my interactive portfolio](https://jacob-peace-portfolio-jakerpeaces-projects.vercel.app/)
+
 <!--
 **JakeRPeace/JakeRPeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
